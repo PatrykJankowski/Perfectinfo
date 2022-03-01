@@ -1,0 +1,417 @@
+// margins
+.mt-35 {
+  margin-top: 35px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.mt-70 {
+  margin-top: 70px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mb-35 {
+  margin-bottom: 35px;
+}
+
+.mb-70 {
+  margin-bottom: 70px;
+}
+
+.mb-120 {
+  margin-bottom: 120px;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.ml-5 {
+  margin-left: 5px;
+}
+
+.pt-0 {
+  padding-top: 0;
+}
+
+.pb-0 {
+  padding-bottom: 0;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.p-14p {
+  padding: 14%;
+}
+
+@media (min-width: 576px) {
+  .mt-0-sm {
+    margin-top: 0;
+  }
+
+  .mt-35-sm {
+    margin-top: 35px;
+  }
+
+  .mt-70-sm {
+    margin-top: 70px;
+  }
+
+  .mb-35-sm {
+    margin-bottom: 35px;
+  }
+
+  .mb-70-sm {
+    margin-bottom: 70px;
+  }
+
+  .mb-120-sm {
+    margin-bottom: 120px;
+  }
+}
+
+@media (min-width: 768px) {
+  .mt-0-md {
+    margin-top: 0;
+  }
+
+  .mt-35-md {
+    margin-top: 35px;
+  }
+
+  .mt-70-md {
+    margin-top: 70px;
+  }
+
+  .mb-35-md {
+    margin-bottom: 35px;
+  }
+
+  .mb-70-md {
+    margin-bottom: 70px;
+  }
+
+  .mb-120-md {
+    margin-bottom: 120px;
+  }
+}
+
+@media (min-width: 992px) {
+  .mt-0-lg {
+    margin-top: 0;
+  }
+
+  .mt-35-lg {
+    margin-top: 35px;
+  }
+
+  .mt-70-lg {
+    margin-top: 70px;
+  }
+
+  .mb-35-lg {
+    margin-bottom: 35px;
+  }
+
+  .mb-70-lg {
+    margin-bottom: 70px;
+  }
+
+  .mb-120-lg {
+    margin-bottom: 120px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .mt-0-xl {
+    margin-top: 0;
+  }
+
+  .mt-35-xl {
+    margin-top: 35px;
+  }
+
+  .mt-70-xl {
+    margin-top: 70px;
+  }
+
+  .mb-35-xl {
+    margin-bottom: 35px;
+  }
+
+  .mb-70-xl {
+    margin-bottom: 70px;
+  }
+
+  .mb-120-xl {
+    margin-bottom: 120px;
+  }
+}
+
+.margin-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.margin-left-auto {
+  margin-left: auto;
+}
+
+.g-0 {
+  --bs-gutter-x: 0;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-content-center {
+  align-content: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.img-195 {
+  width: 195px;
+  height: 195px;
+  object-fit: cover;
+}
+
+.img-h-240 {
+  height: 240px;
+  object-fit: cover;
+}
+
+// font
+.font-size-14 {
+  @include font-size(14);
+}
+
+.font-size-15 {
+  @include font-size(15);
+}
+
+.font-size-18 {
+  @include font-size(18);
+}
+
+.font-size-20 {
+  @include font-size(20);
+}
+
+.font-size-24 {
+  @include font-size(24);
+}
+
+.font-size-36 {
+  @include font-size(36);
+}
+
+.font-size-44 {
+  @include font-size(44);
+}
+
+
+
+@media (min-width: $resolution-lg) {
+  .font-size-24-lg {
+    @include font-size(24);
+  }
+
+  .font-size-36-lg {
+    @include font-size(36);
+  }
+
+  .font-size-44-lg {
+    @include font-size(44);
+  }
+}
+
+
+.font-weight-300 {
+  font-weight: 300;
+}
+
+.font-weight-400 {
+  font-weight: 400;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.letter-spacing {
+  letter-spacing: 1px;
+}
+
+.line-height-26 {
+  line-height: 26px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.color-black {
+  color: $black;
+}
+
+.color-primary {
+  color: $primary;
+}
+
+.color-white {
+  color: $white;
+}
+
+.color-grey {
+  color: $grey;
+}
+
+.color-grey-light {
+  color: $grey-light;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.font-style-italic {
+  font-style: italic;
+}
+
+.bottom-line {
+  &:after {
+    content: "";
+    display: block;
+    border-bottom: 2px solid $primary;
+    width: 80px;
+    margin-top: 20px;
+  }
+}
+
+
+// backround colors
+.bg-white {
+  background-color: $white;
+}
+
+.bg-white-grey {
+  background-color: #DFE2E8;
+}
+
+.bg-grey-light {
+  background-color: $grey-light;
+}
+
+.bg-grey {
+  background-color: $grey;
+}
+
+.bg-grey-dark {
+  background-color: $grey-dark;
+}
+
+.bg-blue {
+  background-color: #029ddd;
+}
+
+.bg-img {
+  position: relative;
+  background-image: url(https://www.perfectinfo.pl/wp-content/uploads/2021/09/data-center.webp);
+  background-size: cover;
+  background-attachment: fixed;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(10,10,10,0.9);
+  }
+}
+
+
+.border {
+  border: 2px solid #e7e7e7;
+}
+
+.border-radius-50 {
+  border-radius: 50%;
+}
+
+
+.text-align-center-lg {
+  @media (max-width: $resolution-lg - 1px) {
+      text-align: center;
+  }
+}
+
+.align-items-center-lg {
+  @media (max-width: $resolution-lg - 1px) {
+    align-items: center;
+  }
+}
+
+.hide-max-lg {
+  @media only screen and (max-width: $resolution-lg - 1px) {
+    display: none;
+  }
+}
+
+.hide-lg {
+  @media only screen and (min-width: $resolution-lg) {
+    display: none;
+  }
+}

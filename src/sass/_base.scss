@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+main {
+  padding-top: 90px;
+}
+
+body, h1, h2, h3, h4, div, span {
+  font-family: "Lato", sans-serif;
+}
+
+p, h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+p {
+  padding-bottom: 15px;
+  line-height: 26px;
+}
+
+section {
+  padding: 90px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+}

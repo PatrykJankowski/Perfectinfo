@@ -1,0 +1,40 @@
+.accordion {
+  background-color: $primary;
+  color: $white;
+  cursor: pointer;
+  padding: 15px 30px;
+  width: 100%;
+  text-align: center;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  @include font-size(18);
+  border-bottom: 1px solid $white;
+
+  &:after {
+    content: '\02795';
+    font-size: 13px;
+    color: $white;
+    float: right;
+    margin-left: 5px;
+    position: relative;
+    left: 10px;
+  }
+
+  &.active:after {
+    content: "\2796";
+  }
+
+  &.active, &.accordion:hover {
+    background-color: #02AADD;
+  }
+
+  &__panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+}
+

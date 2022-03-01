@@ -1,0 +1,60 @@
+/* custom checkbox styling for contact form 7 checkbox */
+span.wpcf7-list-item {
+  display: inline-block;
+  margin: 0;
+}
+.wpcf7 .wpcf7-list-item {
+  display: block;
+  margin-bottom: 10px;
+}
+.wpcf7-checkbox label {
+  position: relative;
+  cursor: pointer;
+}
+.wpcf7-checkbox input[type=checkbox] {
+  /*position: relative;*/
+  position: absolute;
+  visibility: hidden;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+.wpcf7-checkbox input[type=checkbox] + span {
+  /* border: 3px solid red; */
+}
+.wpcf7-checkbox input[type=checkbox] + span:before {
+  display: block;
+  position: absolute;
+  content: '';
+  border-radius: 0;
+  height: 26px;
+  width: 26px;
+  top: 0;
+  left: -34px;
+  border: 1px solid $white;
+}
+.wpcf7-checkbox input[type=checkbox] + span:after {
+  display: block;
+  position: absolute;
+  content: "\2713";
+  height: 26px;
+  width: 26px;
+  top: -3px;
+  left: -34px;
+  visibility: hidden;
+  font-size: 18px;
+  text-align: center;
+  line-height: 30px;
+}
+.wpcf7-checkbox input[type=checkbox]:checked + span:before {
+  background: transparent;
+}
+.wpcf7-checkbox input[type=checkbox]:checked + span:after {
+  visibility: visible;
+}
+.wpcf7-list-item-label {
+  position: relative;
+  margin-left: 34px;
+  display: inline-block;
+}

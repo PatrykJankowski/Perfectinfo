@@ -1,0 +1,49 @@
+/* Spacing */
+$xs: 10px;
+$s: 20px;
+$m: 35px;
+$l: 70px;
+$xl: 120px;
+
+
+/* Sizes */
+$navigation-height: 100px;
+$navigation-height-mobile: 70px;
+
+
+/* Colors */
+$black: #3a3a3a;
+$white: #fff;
+$grey-light: #F6F6F6;
+$grey-dark: #373735;
+$grey: #888;
+$blue: #02aadd;
+$red: #c00;
+$green: #0c0;
+
+$primary: $blue;
+$text-color: $black;
+
+
+/* Fonts */
+$text-size: (18rem/16);
+
+$h1-size: (52rem/16);
+$h2-size: (36rem/16);
+$h3-size: (36rem/16);
+$h4-size: (24rem/16);
+$h5-size: (18rem/16);
+
+
+/* Resolutions */
+$resolution-sm: 576px;
+$resolution-md: 768px;
+$resolution-lg: 992px;
+$resolution-xl: 1200px;
+$resolution-xxl: 1400px;
+
+
+// Mixins
+@mixin font-size($fontSize) {
+    font-size: ($fontSize / 16) + rem;
+}

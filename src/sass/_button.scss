@@ -1,0 +1,32 @@
+.button, input[type='submit'] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 136px;
+  height: 50px;
+  @include font-size(14);
+  font-weight: 400;
+  color: $white;
+  border: 1px solid $white;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.button--dark {
+  background-color: $black;
+  color: $white;
+}
+
+.button--outline {
+  border: 1px solid $primary;
+  color: $primary;
+}
+
+.button--200 {
+  max-width: 200px;
+}
+
+.button--300 {
+  max-width: 300px;
+}
