@@ -83,19 +83,19 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 color-primary">Audyt Danych Osobowych</h2>
+                <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 color-primary">Audyt bezpieczeństwa danych osobowych</h2>
                 <p>W celu wdrożenia Polityki Bezpieczeństwa, Instrukcji Zarządzania Systemami Informatycznymi oraz innych dokumentów wymaganych prawem, niezbędne jest poznanie procesów w ramach których przetwarzają Państwo dane osobowe. Po zakończeniu czynności audytowych, definiowane są Państwa potrzeby oraz działania jakie należy podjąć, aby przystosować proces do przetwarzania danych osobowych zgodnie z wymogami ustawowymi do Państwa działalności.</p>
 
                 <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 mt-20 color-primary">Wdrożenie dokumentacji z zakresu ochrony danych osobowych</h2>
                 <p><b>W ramach usługi przygotowujemy i wdrażamy dokumentację w postaci:</b></p>
                 <ul>
-                    <li>Polityki bezpieczeństwa danych osobowych,</li>
-                    <li>Instrukcji zarządzania systemami informatycznymi,</li>
-                    <li>Upoważnienia do przetwarzania danych osobowych oraz ewidencja tych upoważnień</li>
-                    <li>Wzory umów powierzenia danych osobowych z podmiotami współpracującymi z Państwa firmą</li>
-                    <li>Aktualizujemy regulaminy usług, klauzule zgód na zbieranie danych osobowych, klauzule obowiązku informacyjnego</li>
-                    <li>Politykę prywatności</li>
-                    <li>Innych dokumentów i formularzy związanych z przetwarzaniem danych osobowych</li>
+                    <li>polityki bezpieczeństwa danych osobowych,</li>
+                    <li>instrukcji zarządzania systemami informatycznymi,</li>
+                    <li>upoważnień do przetwarzania danych osobowych oraz ich ewidencji,</li>
+                    <li>wzorów umów powierzenia danych osobowych z podmiotami współpracującymi z Państwa firmą,</li>
+                    <li>aktualizacji regulaminów usług, klauzul zgód na przetwarzanie danych osobowych, klauzul obowiązku informacyjnego,</li>
+                    <li>polityki prywatności,</li>
+                    <li>innych dokumentów i formularzy związanych z przetwarzaniem danych osobowych.</li>
                 </ul>
 
                 <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 mt-35 color-primary">Szkolenie z Ochrony Danych Osobowych oraz pełnienia funkcji IOD</h2>

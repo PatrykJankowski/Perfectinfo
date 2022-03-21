@@ -36,7 +36,7 @@
                 <div class="row">
                     <div class="d-flex align-items-center">
                         <svg class="mr-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 330" width="20" fill="#ffffff" style="min-width: 20px"><path d="M15 180h263.787l-49.394 49.394c-5.858 5.857-5.858 15.355 0 21.213C232.322 253.535 236.161 255 240 255s7.678-1.465 10.606-4.394l75-75c5.858-5.857 5.858-15.355 0-21.213l-75-75c-5.857-5.857-15.355-5.857-21.213 0-5.858 5.857-5.858 15.355 0 21.213L278.787 150H15c-8.284 0-15 6.716-15 15s6.716 15 15 15z"/></svg>
-                        <h5 class="font-size-24 font-weight-400 color-white">Audyt Danych Osobowych</h5>
+                        <h5 class="font-size-24 font-weight-400 color-white">Audyt bezpieczeństwa danych osobowychh</h5>
                     </div>
                     <div class="d-flex align-items-center">
                         <svg class="mr-20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 330" width="20" fill="#ffffff" style="min-width: 20px"><path d="M15 180h263.787l-49.394 49.394c-5.858 5.857-5.858 15.355 0 21.213C232.322 253.535 236.161 255 240 255s7.678-1.465 10.606-4.394l75-75c5.858-5.857 5.858-15.355 0-21.213l-75-75c-5.857-5.857-15.355-5.857-21.213 0-5.858 5.857-5.858 15.355 0 21.213L278.787 150H15c-8.284 0-15 6.716-15 15s6.716 15 15 15z"/></svg>
@@ -65,19 +65,19 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 color-primary">Audyt Danych Osobowych</h2>
+                <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 color-primary">Audyt bezpieczeństwa danych osobowych</h2>
                 <p>W celu wdrożenia Polityki Bezpieczeństwa, Instrukcji Zarządzania Systemami Informatycznymi oraz innych dokumentów wymaganych prawem, niezbędne jest poznanie procesów w ramach których przetwarzają Państwo dane osobowe. Po zakończeniu czynności audytowych, definiowane są Państwa potrzeby oraz działania jakie należy podjąć, aby przystosować proces do przetwarzania danych osobowych zgodnie z wymogami ustawowymi do Państwa działalności.</p>
 
                 <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 mt-20 color-primary">Wdrożenie dokumentacji z zakresu ochrony danych osobowych</h2>
                 <p><b>W ramach usługi przygotowujemy i wdrażamy dokumentację w postaci:</b></p>
                 <ul>
-                    <li>Polityki bezpieczeństwa danych osobowych,</li>
-                    <li>Instrukcji zarządzania systemami informatycznymi,</li>
-                    <li>Upoważnienia do przetwarzania danych osobowych oraz ewidencja tych upoważnień</li>
-                    <li>Wzory umów powierzenia danych osobowych z podmiotami współpracującymi z Państwa firmą</li>
-                    <li>Aktualizujemy regulaminy usług, klauzule zgód na zbieranie danych osobowych, klauzule obowiązku informacyjnego</li>
-                    <li>Politykę prywatności</li>
-                    <li>Innych dokumentów i formularzy związanych z przetwarzaniem danych osobowych</li>
+                    <li>polityki bezpieczeństwa danych osobowych,</li>
+                    <li>instrukcji zarządzania systemami informatycznymi,</li>
+                    <li>upoważnień do przetwarzania danych osobowych oraz ich ewidencji,</li>
+                    <li>wzorów umów powierzenia danych osobowych z podmiotami współpracującymi z Państwa firmą,</li>
+                    <li>aktualizacji regulaminów usług, klauzul zgód na przetwarzanie danych osobowych, klauzul obowiązku informacyjnego,</li>
+                    <li>polityki prywatności,</li>
+                    <li>innych dokumentów i formularzy związanych z przetwarzaniem danych osobowych.</li>
                 </ul>
 
                 <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 mt-35 color-primary">Szkolenie z Ochrony Danych Osobowych oraz pełnienia funkcji IOD</h2>

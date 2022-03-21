@@ -117,18 +117,18 @@
                 <div class="border p-20 text-align-center">
                     <img src="/wp-content/uploads/2022/02/bartlomiej.webp" width="150" height="150" class="border-radius-50 mb-20">
                     <div class="font-size-15">
-                        <p>Założyciel Perfectinfo. Podwójny absolwent Wojskowej Akademii Technicznej. Projektuje i wdraża gotowe systemy bezpieczeństwa informacji od dużych korporacji do jednoosobowych działalności gospodarczych oraz podmiotów publicznych. Wieloletni Audytor, doświadczony szkoleniowiec a przede wszystkim doświadczony przedsiębiorca. Doskonale rozumie potrzeby biznesu. Realizuje zadania z dużym skupieniem na cel.</p>
+                        <p>Absolwent Szkoły Głównej Handlowej oraz Politechniki Częstochowskiej. Ekspert z dziedziny cyberbezpieczeństwa (CISSP, CISM, ISO 27001, Prince2, itd.). Posiada bardzo bogate doświadczenie z zakresu wdrożeń systemów bezpieczeństwa oraz RODO. Skupia się na części technologicznej oraz informatycznej.</p>
                     </div>
-                    <span class="uppercase font-weight-600">Paweł Maliszewski</span>
+                    <span class="uppercase font-weight-600">Bartłomiej Olejnik</span>
                 </div>
             </div>
             <div class="col-lg-4 mt-20 mt-0-lg">
                 <div class="border p-20 text-align-center">
                     <img src="/wp-content/uploads/2022/02/paulina.webp" width="150" height="150" class="border-radius-50 mb-20">
                     <div class="font-size-15">
-                        <p>Założyciel Perfectinfo. Podwójny absolwent Wojskowej Akademii Technicznej. Projektuje i wdraża gotowe systemy bezpieczeństwa informacji od dużych korporacji do jednoosobowych działalności gospodarczych oraz podmiotów publicznych. Wieloletni Audytor, doświadczony szkoleniowiec a przede wszystkim doświadczony przedsiębiorca. Doskonale rozumie potrzeby biznesu. Realizuje zadania z dużym skupieniem na cel.</p>
+                        <p>Obsługa prawna. Koncentruje się na obszarze szeroko pojętego prawa cywilnego i administracyjnego, w tym w szczególności na zagadnieniach związanych z ochroną danych osobowych. W Perfectinfo zajmuje się przeprowadzaniem audytów, tworzeniem dokumentacji związanej z przetwarzaniem danych osobowych oraz sporządzaniem opinii prawnych.</p>
                     </div>
-                    <span class="uppercase font-weight-600">Paweł Maliszewski</span>
+                    <span class="uppercase font-weight-600">Paulina Machowska</span>
                 </div>
             </div>
         </div>
