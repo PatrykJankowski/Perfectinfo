@@ -231,6 +231,10 @@
   object-fit: cover;
 }
 
+.object-fit-contain {
+  object-fit: contain;
+}
+
 // font
 .font-size-14 {
   @include font-size(14);
@@ -367,7 +371,7 @@
 
 .bg-img {
   position: relative;
-  background-image: url(https://www.perfectinfo.pl/wp-content/uploads/2021/09/data-center.webp);
+  background-image: url(/wp-content/uploads/2022/03/data-center.webp);
   background-size: cover;
   background-attachment: fixed;
 

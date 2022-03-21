@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="https://www.perfectinfo.pl/wp-content/uploads/2021/09/perfectinfo-contact.webp">
+                <img class="object-fit-contain" src="/wp-content/uploads/2022/03/perfectinfo-contact.webp">
             </div>
         </div>
     </div>

@@ -14,13 +14,13 @@
 
         <div class="slide slide-fade">
             <a href="/funkcja-iod-html">
-                <img src="https://www.perfectinfo.pl/wp-content/themes/the-simple/img/002.webp">
+                <img src="<?php echo get_field('slider_img_2') ?>">
             </a>
         </div>
 
         <div class="slide slide-fade">
             <a href="/szkolenia-html">
-                <img src="https://www.perfectinfo.pl/wp-content/themes/the-simple/img/003.webp">
+                <img src="<?php echo get_field('slider_img_3') ?>">
             </a>
         </div>
     </div>
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="https://www.perfectinfo.pl/wp-content/uploads/2021/09/perfectinfo-contact.webp">
+                <img src="/wp-content/uploads/2022/03/perfectinfo-contact.webp">
             </div>
         </div>
     </div>

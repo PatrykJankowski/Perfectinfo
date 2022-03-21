@@ -36,7 +36,7 @@
 <section class="section pb-0">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-6" style="background-image: url(https://www.perfectinfo.pl/wp-content/uploads/2020/03/data-center-scaled-e1584399305433.jpg); background-size: cover"></div>
+            <div class="col-lg-6" style="background-image: url(/wp-content/uploads/2022/03/data-center.webp); background-size: cover"></div>
             <div class="col-lg-6 bg-blue">
                 <div class="p-14p">
                     <p class="uppercase">BIERZEMY ODPOWIEDZIALNOŚĆ ZA NASZE DZIAŁANIA</p>
