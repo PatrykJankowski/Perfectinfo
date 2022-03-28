@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
-                <h1 class="font-size-24 font-size-44-lg font-weight-300 mb-20 color-primary">Funkcja IOD</h1>
+                <h1 class="font-size-24 font-size-44-lg font-weight-300 mb-20 color-primary bottom-line">Funkcja IOD</h1>
                 <p class="font-size-20 font-weight-300 letter-spacing color-grey mb-20">Przejęcie funkcji IOD – czyli kompleksowy outsourcing</p>
                 <p><strong>Państwo skupiają się na biznesie, my skupiamy się na ochronie danych osobowych.</strong></p>
                 <p><strong>Wyróżnia nas ponad 10 lat doświadczenia.</strong> Funkcję IOD (dawniej ABI – Administrator Bezpieczeństwa Informacji) pełnimy w wielu podmiotach już od 2010 roku. Chętnie udostępnimy referencje.</p>
@@ -74,6 +74,206 @@
                     Zamów ofertę
                 </a>
             </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="font-size-24 font-size-44-lg font-weight-300 mb-35 color-primary bottom-line">Do przykładowych zadań realizowanych w ramach usługi należą:</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Monitorowanie przestrzegania RODO</h3>
+                        <p>Monitorowanie przestrzegania RODO, innych przepisów Unii oraz prawa polskiego o ochronie danych oraz polityk administratora w dziedzinie ochrony danych osobowych, w tym podział obowiązków;</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Przejęcie odpowiedzialności</h3>
+                        <p>Przejęcie odpowiedzialności w zakresie zapewnienia odpowiedniego poziomu ochrony Danych Osobowych identyfikacja i aktualizacja zbiorów danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Wsparcie Zamawiającego</h3>
+                        <p>Wsparcie Zamawiającego w przeprowadzeniu oceny skutków planowanych operacji przetwarzania dla ochrony danych osobowych oraz monitorowanie jej wykonania</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Identyfikacja i aktualizacja zbiorów danych osobowycha</h3>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Weryfikacja klauzul zgód</h3>
+                        <p>Weryfikacja klauzul zgód na przetwarzanie danych osobowych oraz klauzul obowiązków informacyjnych, a w razie potrzeby przygotowanie niezbędnych zmian lub opracowanie właściwych dokumentów i klauzul</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Analiza</h3>
+                        <p>Analiza stosowanych przez Zamawiającego techniczno-organizacyjnych środków ochrony, bezpieczeństwa fizycznego oraz informatycznego związanych z przetwarzaniem danych osobowych</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Prowadzenie rejestru</h3>
+                        <p>Prowadzenie rejestru czynności przetwarzania danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Wsparcie w zarządzaniu</h3>
+                        <p>Wsparcie w zarządzaniu upoważnieniami do przetwarzania danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Zarządzanie ewidencją</h3>
+                        <p>Zarządzanie ewidencją osób upoważnionych do przetwarzania danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Prowadzenie korespondencji z organem nadzorczym</h3>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Opracowanie szkoleń</h3>
+                        <p>Opracowanie szkoleń w wersji elektronicznej dla pracowników z zakresu ochrony danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Udział w kontrolach</h3>
+                        <p>Udział w kontrolach organu nadzorczego oraz współpraca z organem nadzorczym</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Nadzorowanie</h3>
+                        <p>Przygotowanie, weryfikacja lub opiniowanie umów powierzenia przetwarzania danych</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Pełnienie funkcji punktu kontaktowego</h3>
+                        <p>Pełnienie funkcji punktu kontaktowego dla organu nadzorczego w kwestiach związanych z przetwarzaniem danych, w tym z uprzednimi konsultacjami, o których mowa w art. 36 RODO, oraz w stosownych przypadkach prowadzenie konsultacji we wszelkich innych sprawach</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Reprezentację ADO</h3>
+                        <p>Reprezentację ADO podczas kontroli inspektorów UODO</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Zgłaszanie naruszenia</h3>
+                        <p>Nie później niż w terminie 72 godzin po stwierdzeniu naruszenia – zgłaszanie organowi nadzorczemu, naruszenia przetwarzania danych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Analiza sytuacji</h3>
+                        <p>Analiza sytuacji naruszenia ochrony danych osobowych w systemie informatycznym</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Rekomendowanie zmian</h3>
+                        <p>Opracowanie szkoleń w wersji elektronicznej dla pracowników z zakresu ochrony danych osobowych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Udział w kontrolach</h3>
+                        <p>Rekomendowanie zmian mających na celu minimalizację ryzyka wystąpienia sytuacji naruszenia ochrony danych</p>
+                    </div>
+                </div>
+                <div class="d-flex mt-20">
+                    <div class="mr-20">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="42" height="42" fill="#02aadd"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1 17-5-5.299 1.399-1.43 3.574 3.736L17.545 7 19 8.403 11 17z"/></svg>
+                    </div>
+                    <div>
+                        <h3 class="mb-20">Audyty bezpieczeństwa</h3>
+                        <p>Wewnętrzne okresowe i incydentalne <strong>audyty bezpieczeństwa</strong></p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
