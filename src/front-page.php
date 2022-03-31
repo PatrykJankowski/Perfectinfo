@@ -128,7 +128,7 @@
                     <div class="font-size-15">
                         <p>Obsługa prawna. Koncentruje się na obszarze szeroko pojętego prawa cywilnego i administracyjnego, w tym w szczególności na zagadnieniach związanych z ochroną danych osobowych. W Perfectinfo zajmuje się przeprowadzaniem audytów, tworzeniem dokumentacji związanej z przetwarzaniem danych osobowych oraz sporządzaniem opinii prawnych.</p>
                     </div>
-                    <span class="uppercase font-weight-600">Paulina Machowska</span>
+                    <span class="uppercase font-weight-600">Paulina Gogolewska</span>
                 </div>
             </div>
         </div>
