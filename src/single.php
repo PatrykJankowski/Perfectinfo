@@ -9,7 +9,7 @@
 
                     <div class="mb-20">
                         <?php foreach (get_the_category() as $key => $category) { ?>
-                        <a class="" href="<?php echo get_category_link($category->term_id) ?>"><?php echo $category->name; ?></a><?php if ($key !== array_key_last($category)) { ?>, <?php } ?>
+                        <a class="" href="<?php echo get_category_link($category->term_id) ?>"><?php echo $category->name; ?></a><?php if (true) { ?>, <?php } ?>
                         <?php } ?>
                     </div>
 
