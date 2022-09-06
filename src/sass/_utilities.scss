@@ -67,6 +67,14 @@
   padding: 14%;
 }
 
+.pl-20 {
+  padding-left: 20px;
+}
+
+.pr-20 {
+  padding-right: 20px;
+}
+
 @media (min-width: 576px) {
   .mt-0-sm {
     margin-top: 0;
@@ -329,6 +337,10 @@
   text-align: center;
 }
 
+.text-align-justify {
+  text-align: justify;
+}
+
 .font-style-italic {
   font-style: italic;
 }
@@ -393,6 +405,17 @@
 
 .border-radius-50 {
   border-radius: 50%;
+}
+
+.col-border {
+  display: flex;
+  flex-direction: column;
+
+  @media (min-width: $resolution-lg) {
+    padding: 20px;
+    height: 100%;
+    border: 2px solid $blue;
+  }
 }
 
 

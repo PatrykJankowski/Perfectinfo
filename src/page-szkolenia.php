@@ -136,12 +136,6 @@
                     </ul>
                 </div>
 
-                <button class="accordion">Prawa osób, których dane osobowe są przetwarzane.</button>
-                <div class="accordion__panel"></div>
-
-                <button class="accordion">Obowiązek informacyjny (klauzule informacyjne dotyczące przetwarzania).</button>
-                <div class="accordion__panel"></div>
-
                 <button class="accordion">Rejestr czynności przetwarzania oraz rejestr kategorii czynności przetwarzania.</button>
                 <div class="accordion__panel">
                     <ul>
@@ -181,17 +175,10 @@
                         <li>IOD – czy moja firma jest jak gwiazda śmierci ze Star Warsów i muszę mieć własnego IOD’ę?</li>
                     </ul>
                 </div>
-
-                <button class="accordion">Podsumowanie i pytania</button>
-                <div class="accordion__panel"></div>
             </div>
         </div>
     </div>
 </section>
-
-
-
-
 
 <section class="section bg-grey-dark">
     <div class="container">
