@@ -2,7 +2,7 @@
 
 <?php get_header(); ?>
 
-<section class="section">
+<section class="section hide-lg">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
@@ -24,8 +24,13 @@
     </div>
 </section>
 
+<section class="section hide-max-lg">
+    <a href="#dyrektywa">
+        <img src="/wp-content/themes/perfectinfo/img/sygnalisci.webp" style="height: 100%; margin: 0 auto;display: block;">
+    </a>
+</section>
 
-<section class="section">
+<section class="section" id="dyrektywa">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 d-flex flex-column">
@@ -82,45 +87,60 @@
     <div class="container">
         <div class="row">
             <h2 class="font-size-36 font-size-44-lg font-weight-300 mb-70 color-primary">Jak to działa?</h2>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M432 320v112H320M421.8 421.77L304 304M80 192V80h112M90.2 90.23L208 208M320 80h112v112M421.77 90.2L304 208M192 432H80V320M90.23 421.8L208 304"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">1.</h3>
-                <p>Dopasowanie naszego systemu zgłoszeń do Twojej firmy</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center flex-direction-reverse-xl">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70-max-xl relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-right"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M432 320v112H320M421.8 421.77L304 304M80 192V80h112M90.2 90.23L208 208M320 80h112v112M421.77 90.2L304 208M192 432H80V320M90.23 421.8L208 304"/></svg>
+                </div>
+                <p class="d-flex flex align-items-center">Dopasowanie naszego systemu zgłoszeń do Twojej firmy</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M320 96H88a40 40 0 00-40 40v240a40 40 0 0040 40h334.73a40 40 0 0040-40V239" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M112 160l144 112 87-65.67"/><circle fill="#029ddd" cx="431.95" cy="128.05" r="47.95"/><path fill="#029ddd" d="M432 192a63.95 63.95 0 1163.95-63.95A64 64 0 01432 192zm0-95.9a32 32 0 1031.95 32 32 32 0 00-31.95-32z"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">2.</h3>
-                <p>Uruchomienie kanałów zgłoszeń (system online, telefon, email, poczta tradycyjna)</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center flex-direction-reverse-xl">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70-max-xl relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-right"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M320 96H88a40 40 0 00-40 40v240a40 40 0 0040 40h334.73a40 40 0 0040-40V239" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M112 160l144 112 87-65.67"/><circle fill="#ffffff" cx="431.95" cy="128.05" r="47.95"/><path fill="#ffffff" d="M432 192a63.95 63.95 0 1163.95-63.95A64 64 0 01432 192zm0-95.9a32 32 0 1031.95 32 32 32 0 00-31.95-32z"/></svg>
+                </div>
+                <p class="d-flex flex align-items-center">Uruchomienie kanałów zgłoszeń (system online, telefon, email, poczta tradycyjna)</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M368 415.86V72a24.07 24.07 0 00-24-24H72a24.07 24.07 0 00-24 24v352a40.12 40.12 0 0040 40h328" fill="none" stroke="#029ddd" stroke-linejoin="round" stroke-width="32"/><path d="M416 464h0a48 48 0 01-48-48V128h72a24 24 0 0124 24v264a48 48 0 01-48 48z" fill="none" stroke="#029ddd" stroke-linejoin="round" stroke-width="32"/><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M240 128h64M240 192h64M112 256h192M112 320h192M112 384h192"/><path fill="#029ddd" d="M176 208h-64a16 16 0 01-16-16v-64a16 16 0 0116-16h64a16 16 0 0116 16v64a16 16 0 01-16 16z"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">3.</h3>
-                <p>Udostępnienie pracownikom i partnerom biznesowym informacji na temat wewnętrznych oraz zewnętrznych procedur zgłaszania naruszeń</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center flex-direction-reverse-xl">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70-max-xl relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-right"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M368 415.86V72a24.07 24.07 0 00-24-24H72a24.07 24.07 0 00-24 24v352a40.12 40.12 0 0040 40h328" fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="32"/><path d="M416 464h0a48 48 0 01-48-48V128h72a24 24 0 0124 24v264a48 48 0 01-48 48z" fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="32"/><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M240 128h64M240 192h64M112 256h192M112 320h192M112 384h192"/><path fill="#ffffff" d="M176 208h-64a16 16 0 01-16-16v-64a16 16 0 0116-16h64a16 16 0 0116 16v64a16 16 0 01-16 16z"/></svg>
+                </div>
+                <p class="d-flex flex align-items-center">Udostępnienie pracownikom i partnerom biznesowym informacji na temat wewnętrznych oraz zewnętrznych procedur zgłaszania naruszeń</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M402 168c-2.93 40.67-33.1 72-66 72s-63.12-31.32-66-72c-3-42.31 26.37-72 66-72s69 30.46 66 72z" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M336 304c-65.17 0-127.84 32.37-143.54 95.41-2.08 8.34 3.15 16.59 11.72 16.59h263.65c8.57 0 13.77-8.25 11.72-16.59C463.85 335.36 401.18 304 336 304z" fill="none" stroke="#029ddd" stroke-miterlimit="10" stroke-width="32"/><path d="M200 185.94c-2.34 32.48-26.72 58.06-53 58.06s-50.7-25.57-53-58.06C91.61 152.15 115.34 128 147 128s55.39 24.77 53 57.94z" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M206 306c-18.05-8.27-37.93-11.45-59-11.45-52 0-102.1 25.85-114.65 76.2-1.65 6.66 2.53 13.25 9.37 13.25H154" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">4.</h3>
-                <p>Wskazanie osób odpowiedzialnych za weryfikację zgłaszanych naruszeń</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center flex-direction-reverse-xl">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70-max-xl relative">
+                    <div class="step-line-down hide-max-xl"><div class="step-arrow-down"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M402 168c-2.93 40.67-33.1 72-66 72s-63.12-31.32-66-72c-3-42.31 26.37-72 66-72s69 30.46 66 72z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M336 304c-65.17 0-127.84 32.37-143.54 95.41-2.08 8.34 3.15 16.59 11.72 16.59h263.65c8.57 0 13.77-8.25 11.72-16.59C463.85 335.36 401.18 304 336 304z" fill="none" stroke="#ffffff" stroke-miterlimit="10" stroke-width="32"/><path d="M200 185.94c-2.34 32.48-26.72 58.06-53 58.06s-50.7-25.57-53-58.06C91.61 152.15 115.34 128 147 128s55.39 24.77 53 57.94z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M206 306c-18.05-8.27-37.93-11.45-59-11.45-52 0-102.1 25.85-114.65 76.2-1.65 6.66 2.53 13.25 9.37 13.25H154" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/></svg>
+                </div>
+                <p class="d-flex flex align-items-center">Wskazanie osób odpowiedzialnych za weryfikację zgłaszanych naruszeń</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M320 120l48 48-48 48"/><path d="M352 168H144a80.24 80.24 0 00-80 80v16M192 392l-48-48 48-48" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M160 344h208a80.24 80.24 0 0080-80v-16" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">5.</h3>
-                <p>Podejmowanie działań wyjaśniających i naprawczych</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70 relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-left"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M336 208v-95a80 80 0 00-160 0v95" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><rect x="96" y="208" width="320" height="272" rx="48" ry="48" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+                </div>
+                <p>Zamknięcie zgłoszenia</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M248 64C146.39 64 64 146.39 64 248s82.39 184 184 184 184-82.39 184-184S349.61 64 248 64z" fill="none" stroke="#029ddd" stroke-miterlimit="10" stroke-width="32"/><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M220 220h32v116"/><path fill="none" stroke="#029ddd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M208 340h88"/><path fill="#029ddd" d="M248 130a26 26 0 1026 26 26 26 0 00-26-26z"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">6.</h3>
-                <p>Przekazywanie sygnaliście poprzez system informacji zwrotnych o przyjęciu zgłoszenia i o podjętych w związku z nim działaniach</p>
-            </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M393.87 190a32.1 32.1 0 01-45.25 0l-26.57-26.57a32.09 32.09 0 010-45.26L382.19 58a1 1 0 00-.3-1.64c-38.82-16.64-89.15-8.16-121.11 23.57-30.58 30.35-32.32 76-21.12 115.84a31.93 31.93 0 01-9.06 32.08L64 380a48.17 48.17 0 1068 68l153.86-167a31.93 31.93 0 0131.6-9.13c39.54 10.59 84.54 8.6 114.72-21.19 32.49-32 39.5-88.56 23.75-120.93a1 1 0 00-1.6-.26z" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/><circle fill="#029ddd" cx="96" cy="416" r="16"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">7.</h3>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70 relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-left"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M393.87 190a32.1 32.1 0 01-45.25 0l-26.57-26.57a32.09 32.09 0 010-45.26L382.19 58a1 1 0 00-.3-1.64c-38.82-16.64-89.15-8.16-121.11 23.57-30.58 30.35-32.32 76-21.12 115.84a31.93 31.93 0 01-9.06 32.08L64 380a48.17 48.17 0 1068 68l153.86-167a31.93 31.93 0 0131.6-9.13c39.54 10.59 84.54 8.6 114.72-21.19 32.49-32 39.5-88.56 23.75-120.93a1 1 0 00-1.6-.26z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32"/><circle fill="#ffffff" cx="96" cy="416" r="16"/></svg>
+                </div>
                 <p>Zaplanowanie i wdrożenie działań naprawczych</p>
             </div>
-            <div class="col-lg-3 d-flex flex-column align-items-center text-align-center">
-                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M336 208v-95a80 80 0 00-160 0v95" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><rect x="96" y="208" width="320" height="272" rx="48" ry="48" fill="none" stroke="#029ddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
-                <h3 class="font-size-24 font-weight-400 color-primary mb-20 mt-20">8.</h3>
-                <p>Zamknięcie zgłoszenia</p>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70 relative">
+                    <div class="step-line hide-max-xl"><div class="step-arrow-left"></div></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M248 64C146.39 64 64 146.39 64 248s82.39 184 184 184 184-82.39 184-184S349.61 64 248 64z" fill="none" stroke="#ffffff" stroke-miterlimit="10" stroke-width="32"/><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M220 220h32v116"/><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M208 340h88"/><path fill="#ffffff" d="M248 130a26 26 0 1026 26 26 26 0 00-26-26z"/></svg>
+                </div>
+                <p>Przekazywanie sygnaliście poprzez system informacji zwrotnych o przyjęciu zgłoszenia i o podjętych w związku z nim działaniach</p>
+            </div>
+            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
+                <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70 relative">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M320 120l48 48-48 48"/><path d="M352 168H144a80.24 80.24 0 00-80 80v16M192 392l-48-48 48-48" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M160 344h208a80.24 80.24 0 0080-80v-16" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+                </div>
+                <p>Podejmowanie działań wyjaśniających i naprawczych</p>
             </div>
         </div>
     </div>

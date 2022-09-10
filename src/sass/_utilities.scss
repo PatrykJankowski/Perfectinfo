@@ -59,6 +59,10 @@
   padding-bottom: 40px;
 }
 
+.p-10 {
+  padding: 10px;
+}
+
 .p-20 {
   padding: 20px;
 }
@@ -214,6 +218,10 @@
 
 .flex-grow {
   flex-grow: 1;
+}
+
+.flex {
+  flex: 1;
 }
 
 .align-items-center {
@@ -398,6 +406,68 @@
   }
 }
 
+.flex-direction-reverse-xl {
+  @media only screen and (min-width: $resolution-xl) {
+    flex-direction: column-reverse;
+  }
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.step-line {
+  width: 260px;
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  left: 70px;
+  transform: translateY(50%);
+  background: $blue;
+}
+
+.step-line-down {
+  width: 1px;
+  height: 90px;
+  position: absolute;
+  left: 50%;
+  top: 70px;
+  transform: translateX(50%);
+  background: $blue;
+}
+
+.step-arrow-right {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid $blue;
+  top: -10px;
+  position: absolute;
+  left: 132px;
+}
+
+.step-arrow-left {
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid $blue;
+  top: -10px;
+  position: absolute;
+  left: 132px;
+}
+
+.step-arrow-down {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid $blue;
+  top: 40px;
+  position: absolute;
+  left: -10px;
+}
 
 .border {
   border: 2px solid #e7e7e7;
@@ -415,6 +485,12 @@
     padding: 20px;
     height: 100%;
     border: 2px solid $blue;
+  }
+}
+
+.mt-70-max-xl {
+  @media only screen and (max-width: $resolution-xl - 1px) {
+    margin-top: 70px;
   }
 }
 
@@ -439,6 +515,18 @@
 
 .hide-lg {
   @media only screen and (min-width: $resolution-lg) {
+    display: none;
+  }
+}
+
+.hide-max-xl {
+  @media only screen and (max-width: $resolution-xl - 1px) {
+    display: none;
+  }
+}
+
+.hide-xl {
+  @media only screen and (min-width: $resolution-xl) {
     display: none;
   }
 }
