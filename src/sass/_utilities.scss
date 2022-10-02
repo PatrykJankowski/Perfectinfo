@@ -412,6 +412,7 @@
   }
 }
 
+
 .justify-content-end {
   justify-content: flex-end;
 }
@@ -484,7 +485,7 @@
   @media (min-width: $resolution-lg) {
     padding: 20px;
     height: 100%;
-    border: 2px solid $blue;
+    border: 3px solid $blue;
   }
 }
 
@@ -504,6 +505,12 @@
 .align-items-center-lg {
   @media (max-width: $resolution-lg - 1px) {
     align-items: center;
+  }
+}
+
+.flex-direction-col-lg {
+  @media (max-width: $resolution-lg - 1px) {
+    flex-direction: column;
   }
 }
 

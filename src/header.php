@@ -48,6 +48,8 @@
             <?php wp_nav_menu(array('theme_location' => 'nav-menu-mobile', 'container' => false)); ?>
         </nav>
 
+        <a href="tel:+48732080876" class="d-flex justify-content-end align-items-center color-primary font-weight-600 hide-max-lg ml-5">Zadzwoń: +48 732 08 08 76</a>
+
         <div id="navbar__toggle" class="navbar__toggle" onclick="slideToggle()"><i class="navbar__toggle-icon"></i></div>
     </div>
 </header>
