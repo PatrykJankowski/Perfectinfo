@@ -25,7 +25,7 @@
 </section>
 
 <section class="section hide-max-lg">
-    <a href="#dyrektywa">
+    <a href="/kontakt">
         <img src="/wp-content/themes/perfectinfo/img/sygnalisci.webp" style="height: 100%; margin: 0 auto;display: block;">
     </a>
 </section>
@@ -55,10 +55,14 @@
                 <div class="col-border">
                 <svg xmlns="http://www.w3.org/2000/svg" class="mb-20 margin-auto" viewBox="0 0 206.003 206.003" width="70" height="70" fill="#029ddd"><path d="M103.002 206.003a5.995 5.995 0 0 1-3.175-.909C43.867 170.2 22.4 126.118 14.246 95.282 5.527 62.313 9.67 37.499 10.002 35.636l.096-.596a5.999 5.999 0 0 1 5.829-5.05c.301-.007 32.023-.993 58.541-28.18a6.001 6.001 0 0 1 6.91-1.211c6.77 3.277 14.045 4.938 21.624 4.938s14.854-1.662 21.624-4.938a6 6 0 0 1 6.91 1.211c26.688 27.362 58.226 28.175 58.541 28.18a5.999 5.999 0 0 1 5.829 5.05l.096.596c.333 1.863 4.475 26.677-4.244 59.646-8.154 30.836-29.621 74.918-85.581 109.813a6.005 6.005 0 0 1-3.175.908zM21.328 41.569c-.8 7.938-1.717 27.418 4.667 51.203 10.871 40.5 36.77 74.169 77.005 100.126 50.261-32.47 69.711-72.531 77.156-100.684 6.254-23.649 5.334-42.796 4.528-50.644-10.673-1.301-35.839-6.633-58.756-28.433-7.276 2.922-14.969 4.401-22.927 4.401S87.35 16.06 80.074 13.137C57.165 34.93 32.007 40.265 21.328 41.569z"/><path d="M103.002 168.796a5.995 5.995 0 0 1-3.175-.909c-35.771-22.305-49.492-51.723-54.705-72.474-5.662-22.54-2.809-39.755-2.685-40.477l.055-.343a5.999 5.999 0 0 1 5.829-5.05c.165-.004 19.228-.662 35.174-17.011a6.001 6.001 0 0 1 6.91-1.211c3.943 1.909 8.181 2.876 12.597 2.876s8.654-.968 12.597-2.876a6 6 0 0 1 6.91 1.211c15.946 16.349 35.01 17.006 35.201 17.011 2.891.071 5.346 2.195 5.803 5.05l.066.412c.113.653 2.965 17.868-2.696 40.408-5.212 20.751-18.935 50.169-54.705 72.474a6.003 6.003 0 0 1-3.176.909zM53.843 60.998c-.428 5.966-.575 17.884 3.046 31.998 6.598 25.72 22.105 46.789 46.113 62.67 24.007-15.881 39.515-36.95 46.113-62.67 3.625-14.129 3.474-26.057 3.047-31.998-7.563-1.195-21.931-5.014-35.276-17.213a40.626 40.626 0 0 1-13.884 2.413c-4.798 0-9.451-.81-13.884-2.413-13.345 12.198-27.712 16.017-35.275 17.213z"/><path d="m103.002 62.686 6.124 18.848h19.818l-16.033 11.649 6.124 18.848-16.033-11.649-16.033 11.649 6.124-18.848L77.06 81.534h19.818z"/></svg>
                 <h3 class="font-size-24 font-weight-400 text-align-center color-primary mb-20 mt-20" style="min-height: 58px">Co dalej? – obowiązki pracodawcy</h3>
-                <p class="text-align-center">Pracodawca jest zobowiązany do uruchomienia systemu zawierającego panel do dokonania zgłoszenia, odpowiedzi zwrotnych oraz bazę z danymi historycznymi.
-                    Należy również stworzyć odpowiednie procedury w firmie i przeszkolić pracowników w tym zakresie.
-                    Kiedy wpłynie przez system zgłoszenie, dedykowana osoba z firmy wraz z niezależną jednostką, muszą zbadać sprawę a następnie wdrożyć działania naprawcze.
-                </p>
+                <p class="text-align-center">Pracodawca zobowiązany jest do przygotowania:</p>
+                    <ul class="text-align-center">
+                        <li>Poufnego kanału zgłoszeń</li>
+                        <li>Odpowiednich procedur i regulaminów</li>
+                        <li>Przeszkolenia pracowników i współpracowników</li>
+                        <li>Wyznaczenia niezależnej osoby lub podmiotu obsługującego zgłoszenia</li>
+                        <li>Podejmowanie działań wyjaśniających</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -69,11 +73,12 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h2 class="font-size-20 font-size-44-lg font-weight-300 color-white text-align-center mb-20 mt-20">Udostępnimy i wdrożymy system zgłoszeń a nasi specjaliści na bieżąco będą rozpatrywać sprawy oraz współpracować z wyznaczoną przez Ciebie osobą z firmy, aby szybko, skutecznie i zgodnie z prawem, przejść przez każde zgłoszenie.</h2>
+                <h2 class="font-size-20 font-size-44-lg font-weight-300 color-white text-align-center mb-20 mt-20">Jako jedyni na rynku, dostarczamy prawdziwie kompleksowe rozwiązanie. Dzięki platformie Perfect Whistle otrzymasz dostęp do systemu zgłoszeń online, szkoleń oraz uszytej na Twoją miarę dokumentacji. Ty skupisz się na biznesie a my zajmiemy się wszystkim aspektami prawnymi, organizacyjnymi i technicznymi od A do Z.</h2>
             </div>
             <div class="row">
                 <div class="col">
-                    <a class="button margin-auto mt-20" style="font-size: 1.2rem; max-width: 400px" href="/wp-content/themes/perfectinfo/img/form.webp" data-lightbox="lightbox">Zobacz jak wygląda zgłoszenie</a>
+                    <img src="/wp-content/themes/perfectinfo/img/mockup.webp" class="d-block h-100 margin-auto" style="width: 100%; max-width: 960px">
+                    <!--<a class="button margin-auto mt-20" style="font-size: 1.2rem; max-width: 400px" href="/wp-content/themes/perfectinfo/img/form.webp" data-lightbox="lightbox">Zobacz jak wygląda zgłoszenie</a>-->
                 </div>
             </div>
         </div>
@@ -84,7 +89,8 @@
     <div class="container">
         <div class="row">
             <h2 class="font-size-36 font-size-44-lg font-weight-300 mb-70 color-primary">Jak to działa?</h2>
-            <div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
+            <img src="/wp-content/themes/perfectinfo/img/info.webp" class="mb-70 h-100 margin-auto" style="max-width: 960px">
+            <!--<div class="col-xl-3 d-flex flex-column align-items-center text-align-center">
                 <div class="border-radius-50 p-10 bg-blue d-flex mb-20 mt-70 relative">
                     <div class="step-line hide-max-xl"><div class="step-arrow-right"></div></div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path d="M336 208v-95a80 80 0 00-160 0v95" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><rect x="96" y="208" width="320" height="272" rx="48" ry="48" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
@@ -110,13 +116,44 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512"><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M320 120l48 48-48 48"/><path d="M352 168H144a80.24 80.24 0 00-80 80v16M192 392l-48-48 48-48" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/><path d="M160 344h208a80.24 80.24 0 0080-80v-16" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
                 </div>
                 <p class="d-flex flex align-items-center p-20">4. Planujemy i wdrażamy działania naprawcze </p>
+            </div>-->
+        </div>
+    </div>
+</section>
+
+<section class="section bg-grey-dark color-white">
+    <div class="container">
+        <div class="row">
+            <h2 class="font-size-36 font-size-44-lg font-weight-300 mb-70 color-white text-align-center">Dlaczego my?</h2>
+            <div class="col d-flex flex-direction-col-lg pb-40">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-100 mr-20-lg mb-20 m-auto-max-lg" style="min-width: 70px" width="90" height="90" viewBox="0 0 512 512"><title>Swap Vertical</title><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M464 208L352 96 240 208M352 113.13V416M48 304l112 112 112-112M160 398V96"></path></svg>
+                <div>
+                    <p class="font-size-18 font-size-24-lg">Jako jedyni na rynku, dostarczamy prawdziwie kompleksowe rozwiązanie. Dzięki platformie Perfect Whistle skupisz się na biznesie, a my zajmiemy się wszystkim aspektami prawnymi, organizacyjnymi i technicznymi od A do Z.</p>
+                    <p class="pb-0">Audytujemy, wdrażamy i utrzymujemy system z minimalnym zaangażowaniem po Twojej stronie. Nie martwisz się o to, gdzie opublikować procedury, jak skutecznie przeszkolić pracowników, jak utrzymywać system zgłoszeń sygnalistów.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col d-flex flex-direction-col-lg pb-40">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-100 mr-20-lg mb-20 m-auto-max-lg" style="min-width: 70px" width="90" height="90" viewBox="0 0 512 512"><title>Accessibility</title><circle fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="32" cx="256" cy="56" r="40"/><path fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width="32" d="M204.23 274.44c2.9-18.06 4.2-35.52-.5-47.59-4-10.38-12.7-16.19-23.2-20.15L88 176.76c-12-4-23.21-10.7-24-23.94-1-17 14-28 29-24 0 0 88 31.14 163 31.14s162-31 162-31c18-5 30 9 30 23.79 0 14.21-11 19.21-24 23.94l-88 31.91c-8 3-21 9-26 18.18-6 10.75-5 29.53-2.1 47.59l5.9 29.63 37.41 163.9c2.8 13.15-6.3 25.44-19.4 27.74S308 489 304.12 476.28l-37.56-115.93q-2.71-8.34-4.8-16.87L256 320l-5.3 21.65q-2.52 10.35-5.8 20.48L208 476.18c-4 12.85-14.5 21.75-27.6 19.46s-22.4-15.59-19.46-27.74l37.39-163.83z"/></svg>
+                <div>
+                    <p class="font-size-18 font-size-24-lg">Przeprowadziliśmy ponad 20 postępowań wyjaśniających z Urzędem Ochrony Danych Osobowych.  Posiadamy realne doświadczenie w zakresie komunikacji z Urzędami, Podmiotami Kontrolującymi i Sądami. Dla nas doświadczenie to nie tylko współpraca z Klientami. To realne zabezpieczenie interesów naszych Klientów i Partnerów!</p>
+                    <p class="pb-0">Gdy wszystko idzie gładko, każdy potrafi dostarczyć usługę na odpowiednim poziomie. Wartość Partnera poznaje się jednak dopiero wtedy kiedy pojawiają się prawdziwe problemy.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col d-flex flex-direction-col-lg">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-100 mr-20-lg m-auto-max-lg" style="min-width: 70px" width="90" height="90" viewBox="0 0 512 512"><title>Shield Checkmark</title><path fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M336 176L225.2 304 176 255.8"/><path d="M463.1 112.37C373.68 96.33 336.71 84.45 256 48c-80.71 36.45-117.68 48.33-207.1 64.37C32.7 369.13 240.58 457.79 256 464c15.42-6.21 223.3-94.87 207.1-351.63z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
+                <div>
+                    <p class="font-size-18 font-size-24-lg pb-0">W ramach zgłoszeń sygnalistów często są zbierane dane poufne, stanowiące tajemnicę przedsiębiorstwa. Nie chcesz takich danych powierzyć firmie "krzak". Działamy ponad 10 lat na rynku, poufność informacji i bezpieczeństwo to nasza specjalność, dlatego warto nawiązać współpracę z nami, jako sprawdzonym partnerem.</p>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-
-<section class="section bg-grey-dark">
+<!--<section class="section bg-grey-dark">
     <div class="container">
         <div class="row">
             <h2 class="font-size-36 font-size-44-lg font-weight-300 mb-70 color-white text-align-center">Dlaczego my?</h2>
@@ -167,7 +204,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 
 
 <section class="section">
@@ -381,10 +418,10 @@
     }
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script defer>
     $(document).ready(function(){"use strict";$("a[data-lightbox]").lightbox()}),function($){"use strict";$.fn.lightbox=function(){return this.each(function(){function i(){$(".lightbox-overlay, .lightbox-loading, .lightbox img").bind("contextmenu",function(){return!1}),$('<div class="lightbox-overlay"></div><div class="lightbox-close">X</div>').hide().appendTo("body"),$(".lightbox-overlay").fadeTo(250,.75),$(".lightbox-overlay").click(function(){$("#close").click()}),$(".lightbox-close").click(function(){$("#close").click()}),$(".lightbox-overlay").hover().css({cursor:"pointer"})}function t(){$('<div class="lightbox-loading"><i class="fa fa-spinner fa-3x fa-spin"></i></div>').hide().appendTo("body"),$(".lightbox-loading").css({top:$(window).height()/2-47,left:$(window).width()/2-47}),$(".lightbox-loading").show(0),$(".lightbox-overlay, .lightbox-loading").click(function(){$(".lightbox-loading, .lightbox-overlay, .lightbox").fadeTo(500,0,function(){$(".lightbox-loading, .lightbox-overlay, .lightbox").remove()})}),$(".lightbox").css({top:$(window).height()/2,left:$(window).width()/2})}function o(){var o;$(".lightbox-overlay").is(":visible")&&(o="true"),("true"!==o||null===o)&&(i(),t()),$(".lightbox-overlay, .lightbox-loading, .lightbox").bind("contextmenu",function(){return!1}),$(".lightbox img").load(function(){$(this).css({maxWidth:.8*$(window).width(),maxHeight:.8*$(window).height()});var i=$(".lightbox img").width(),t=$(".lightbox img").height();$(".lightbox").css({top:$(window).height()/2,left:"50%"}).animate({opacity:1,marginLeft:-((i+20)/2),marginTop:-((t+90)/2),width:i+20,height:t+90},500,function(){$(".lightbox-title, .lightbox-nav, .lightbox img").fadeTo(500,1)}),$("#close").click(function(){$(".lightbox-loading, .lightbox-title, .lightbox-nav, .lightbox-close, .lightbox img").remove(),$(".lightbox").animate({left:"50%",top:$(window).height()/2,marginLeft:i/2,marginTop:t/2,width:-(i+20),height:-(t+60)},500,function(){$(".lightbox").remove()}),$(".lightbox-overlay").delay(250).fadeTo(500,0,function(){$(".lightbox-overlay").remove()})}),$(window).resize(function(){$("#close").click()})})}$(this).click(function(){var i=$(this).attr("data-lightbox"),t=$('[data-lightbox="'+i+'"]').size(),l=$('[data-lightbox="'+i+'"]').index(this),e=$(this).attr("href"),a=$(this).prop("title");return"undefined"===a||"false"===a?$('<div class="lightbox"><div class="lightbox-nav"><a id="close"><i class="fa fa-times"></i></a></div><img src='+e+' /><div class="lightbox-title" style="height:20px"></div></div>').appendTo("body"):$('<div class="lightbox"><div class="lightbox-nav"><a id="close"><i class="fa fa-times"></i></a></div><img src='+e+' /><div class="lightbox-title"><span>'+a+"</span></div></div>").appendTo("body"),(i.match("group")||i.match("Group"))&&t>1&&$('<a id="prev"><i class="fa fa-arrow-left"></i></a><span id="count">'+parseInt(l+1,10)+" / "+t+'</span><a id="next"><i class="fa fa-arrow-right"></i></a>').appendTo(".lightbox-nav"),$('[data-lightbox="'+i+'"]').filter(".selected").removeClass("selected"),$(this).addClass("selected"),$("#prev").click(function(){return $(".lightbox").fadeTo(250,0,function(){$(".lightbox").remove()}),setTimeout(function(){var t=$('[data-lightbox="'+i+'"]').eq(l-1);t.size()||(t=$('[data-lightbox="'+i+'"]').eq(0)),t.size()&&t.click()},500),!1}),$("#next").click(function(){return $(".lightbox").fadeTo(250,0,function(){$(".lightbox").remove()}),setTimeout(function(){var t=$('[data-lightbox="'+i+'"]').eq(l+1);t.size()||(t=$('[data-lightbox="'+i+'"]').eq(0)),t.size()&&t.click()},500),!1}),o(),!1})}),this}}(jQuery);
-</script>
+</script>-->
 
 <?php get_footer(); ?>
 
