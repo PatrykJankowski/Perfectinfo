@@ -77,6 +77,12 @@
         height: 100%;
         padding: 0 $xs;
 
+        &:last-of-type {
+          a {
+            color: $primary;
+          }
+        }
+
         &:hover {
           > a {
             color: $primary;
