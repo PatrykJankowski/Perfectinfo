@@ -7,10 +7,9 @@
 </footer>
 
 <script>
-    /*window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'XXX');*/
+    window.addEventListener('CookiebotOnConsentReady', () => {
+        Cookiebot.changed && document.location.reload();
+    })
 
     let navOpened = false;
     let initHeight = 460;
