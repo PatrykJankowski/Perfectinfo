@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="/wp-content/uploads/2022/03/perfectinfo-contact.webp">
+                <img class="h-auto" src="/wp-content/uploads/2022/03/perfectinfo-contact.webp">
             </div>
         </div>
     </div>

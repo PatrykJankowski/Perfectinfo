@@ -3,6 +3,10 @@
   margin-top: 35px;
 }
 
+.mt-10 {
+  margin-top: 10px;
+}
+
 .mt-20 {
   margin-top: 20px;
 }
@@ -77,6 +81,11 @@
 
 .pr-20 {
   padding-right: 20px;
+}
+
+.py-10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 @media (min-width: 576px) {
@@ -254,6 +263,14 @@
 
 .object-fit-contain {
   object-fit: contain;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.w-100 {
+  width: 100%;
 }
 
 // font

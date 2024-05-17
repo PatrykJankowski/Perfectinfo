@@ -25,8 +25,6 @@ $posts = new WP_Query($args);
 <section class="section pt-0">
     <div class="container">
 
-        <div class="text-align-center mb-35"><?php the_posts_pagination(); ?></div>
-
         <?php while ($posts->have_posts()) : $posts->the_post(); ?>
             <div class="row">
                 <div class="col-lg-4">
@@ -42,6 +40,13 @@ $posts = new WP_Query($args);
                 </div>
             </div>
         <?php endwhile; ?>
+
+        <div class="row">
+            <div class="col">
+                <div class="text-align-center mt-70"><?php the_posts_pagination(); ?></div>
+            </div>
+        </div>
+
     </div>
 </section>
 

@@ -1,8 +1,15 @@
 </main>
 
 <footer class="footer">
-    <div class="container h-100 d-flex align-items-center justify-content-center flex-direction-col-lg">
-        ©2020 PerfectInfo. Kontakt: <a class="color-grey-light ml-5 mr-5" href="mailto:kontakt@perfectinfo.pl">kontakt@perfectinfo.pl</a> | <a class="color-grey-light ml-5 mr-5" href="tel:+48732080876">tel. +48 732 08 08 76</a> | <a class="color-grey-light ml-5 mr-5" href="/blog">Blog</a> | <a class="color-grey-light ml-5 mr-5" href="/polityka-prywatnosci">Polityka prywatności</a>
+    <div class="container h-100 d-flex align-items-center justify-content-center flex-direction-col-lg p-20">
+        <span class="py-10">©2020 PerfectInfo. </span> <span class="mt-10 mt-0-lg hide-max-lg"> Kontakt:</span>
+        <a class="color-grey-light ml-5 mr-5" href="mailto:kontakt@perfectinfo.pl">kontakt@perfectinfo.pl</a>
+        <span class="hide-max-lg">|</span>
+        <a class="color-grey-light ml-5 mr-5" href="tel:+48732080876">tel. +48 732 08 08 76</a>
+        <span class="hide-max-lg">|</span>
+        <a class="mt-10 mt-0-lg color-grey-light ml-5 mr-5" href="/blog">Blog</a>
+        <span class="hide-max-lg">|</span>
+        <a class="color-grey-light ml-5 mr-5" href="/polityka-prywatnosci">Polityka prywatności</a>
     </div>
 </footer>
 

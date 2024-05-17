@@ -5,7 +5,9 @@
         <div class="row">
             <div class="col-lg-9">
                 <article class="article-details">
-                    <?php if (has_post_thumbnail()) the_post_thumbnail() ?>
+                    <?php if (has_post_thumbnail()) { 
+                        the_post_thumbnail('full', array('class' => 'h-auto')); 
+                    } ?>
 
                     <div class="mb-20">
                         <?php foreach (get_the_category() as $key => $category) { ?>

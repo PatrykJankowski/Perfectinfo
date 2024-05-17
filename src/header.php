@@ -22,14 +22,15 @@
     <link rel="dns-prefetch" href="https://www.googletagmanager.com/" >-->
 
     <!-- Google Tag Manager -->
-    <!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KB22WNS');</script>-->
+        })(window,document,'script','dataLayer','GTM-KB22WNS');</script>
     <!-- End Google Tag Manager -->
 
     <?php wp_head(); ?>
+	<meta name="google-site-verification" content="wVe--VJoxar9VVjwj3gKFsSFf3LChZV79yTm5VydOLY" />
 </head>
 
 <body <?php body_class(); ?>>
@@ -48,10 +49,11 @@
             <?php wp_nav_menu(array('theme_location' => 'nav-menu-mobile', 'container' => false)); ?>
         </nav>
 
-        <a href="tel:+48732080876" class="d-flex justify-content-end align-items-center color-black text-underline font-weight-600 hide-max-lg ml-5">Zadzwoń: 732 080 876</a>
+        <a href="tel:+48732080876" class="d-flex justify-content-end align-items-center color-black text-underline font-weight-600 ml-5">Zadzwoń: 732 080 876</a>
 
         <div id="navbar__toggle" class="navbar__toggle" onclick="slideToggle()"><i class="navbar__toggle-icon"></i></div>
     </div>
+	
 </header>
 
 <main>

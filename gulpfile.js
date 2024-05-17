@@ -3,8 +3,9 @@ const gulp = require('gulp'),
     sass = require("gulp-sass")(require("node-sass")),
     uglify = require('gulp-uglify-es').default,
     watch = require('gulp-watch'),
-    webp = require('gulp-webp'),
     clean = require('gulp-clean');
+
+    const webp = () => import('gulp-webp');
 
 const path = "./dist/";
 
@@ -42,10 +43,14 @@ gulp.task('json', function () {
         .pipe(gulp.dest(path))
 });
 
-gulp.task('images', function () {
+gulp.task('images', async function () {
+    const webpModule = await import('gulp-webp');
+
     return gulp.src('src/img/*')
-        .pipe(webp())
-        .pipe(gulp.dest(path + 'img'))
+        .pipe(webpModule.default({
+            quality: 80,
+        }))
+        .pipe(gulp.dest(path + 'img'));
 });
 
 gulp.task('fonts', function () {
