@@ -6,31 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#007FFF">
 
+    <!-- Favicon and touch icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/perfectinfo/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/wp-content/themes/perfectinfo/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/wp-content/themes/perfectinfo/img/favicon-16x16.png" sizes="16x16">
 
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="/wp-content/themes/perfectinfo/style.css">
 
+    <!-- Preconnect for Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+    <!-- Preload and Load Google Fonts -->
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
-    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
-
-    <!--<link href="https://www.googletagmanager.com/gtm.js?id=GTM-KB22WNS" rel="preload" as="script">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" >-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" media="print" onload="this.onload=null;this.removeAttribute('media');">
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KB22WNS');</script>
+    <script async>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KB22WNS');
+    </script>
     <!-- End Google Tag Manager -->
 
     <?php wp_head(); ?>
-	<meta name="google-site-verification" content="wVe--VJoxar9VVjwj3gKFsSFf3LChZV79yTm5VydOLY" />
+    <meta name="google-site-verification" content="wVe--VJoxar9VVjwj3gKFsSFf3LChZV79yTm5VydOLY" />
 </head>
 
 <body <?php body_class(); ?>>
@@ -53,7 +56,6 @@
 
         <div id="navbar__toggle" class="navbar__toggle" onclick="slideToggle()"><i class="navbar__toggle-icon"></i></div>
     </div>
-	
 </header>
 
 <main>

@@ -1,8 +1,4 @@
 .footer {
   background: #212121;
   color: $grey;
-
-  @media (min-width: $resolution-lg) {
-    height: 108px
-  }
 }
